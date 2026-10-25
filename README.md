@@ -1,16 +1,27 @@
-# Car Sales Analysis Cognos Dashboard
+# Car Sales & Service Dashboard | IBM Cognos Analytics
 
-This repository contains an interactive **IBM Cognos Analytics Dashboard** for **SwiftAuto Traders**, analyzing car sales and service metrics.
+A business intelligence portfolio project presenting sales and service metrics for the SwiftAuto Traders scenario.
 
-### Project Features:
-- **Sales Dashboard**: Displays insights into **Profit**, **Quantity Sold**, and **Profit by Dealer ID**.
-- **Service Dashboard**: Includes visualizations like **Number of Recalls**, **Customer Sentiment**, and **Cars Sold per Month**.
+## Business questions
 
-### Tools Used:
-- **IBM Cognos Analytics** for building the dashboards.
-- **PDF Export** to share the final version of the dashboard.
+- How do profit and quantity sold compare across dealers?
+- What do recall volumes and customer sentiment reveal about service performance?
+- How do monthly sales vary?
 
-## How to Use:
-1. Open the **PDF** file to explore the visualizations.
-2. Use the slicers and filters to interact with the data and view detailed insights.
+## View the dashboard
 
+Open [_ New dashboard.pdf](<_ New dashboard.pdf>) to review the exported dashboard.
+
+**This repository contains a static PDF export.** Filters and slicers from the original Cognos dashboard cannot be used in the PDF. An editable Cognos project and source data are not included, so this repository supports visual review rather than a full rebuild.
+
+## Skills demonstrated
+
+IBM Cognos Analytics · dashboard design · sales reporting · service reporting · visual communication
+
+## Review approach
+
+Read each chart's labels, units, date coverage, and aggregation before comparing results. Treat the dashboard as an educational analysis; it does not establish causal relationships or provide live business metrics.
+
+## Author
+
+[Muhammad Ibrahim](https://www.linkedin.com/in/m135ibrahim/) · [GitHub portfolio](https://github.com/M33ibrahim)
